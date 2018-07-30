@@ -1,0 +1,28 @@
+function %%FunctionName%% {
+    <#
+    .SYNOPSIS
+    Short description
+
+    .DESCRIPTION
+    Long description
+
+    .EXAMPLE
+    %%FunctionName%%
+
+    .NOTES
+    Author: %%ModuleAuthor%%
+    #>
+
+    [CmdletBinding()]
+    param(
+    )
+
+    begin {
+    }
+
+    process {
+    }
+
+    end {
+    }
+}

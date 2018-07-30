@@ -1,0 +1,17 @@
+TOPIC
+    about_PowerFIGlet
+
+SHORT DESCRIPTION
+    FIGlet for PowerShell
+
+LONG DESCRIPTION
+    FIGlet for PowerShell
+
+EXAMPLES
+    TBD
+
+KEYWORDS
+    FIGlet
+
+SEE ALSO
+    https://github.com/MischaBoender/PowerFIGlet
